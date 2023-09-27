@@ -1,2 +1,2 @@
-# .github
+# Lynk Robotics
 hello world!
