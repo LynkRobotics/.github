@@ -23,6 +23,7 @@ Currently we are planning to be in attendance of are: </br>
 [Facebook](https://www.facebook.com/lynkfrc) </br>
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="15" height="15">
 [Instagram](https://www.instagram.com/lynkfrc/)</br>
+<img src="https://static-00.iconduck.com/assets.00/github-icon-1024x1024-59k0a53p.png" width="15" height="15">
 [Github](https://github.com/LynkRobotics) </br>
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="15" height="15">
 [YouTube](https://www.youtube.com/@LynkFRC/) </br>
