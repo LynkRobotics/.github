@@ -15,8 +15,8 @@ Lynk is a newly formed high school FIRST Robotic Competition (FRC) team, operati
 
 ## 2024 Events
 Currently we are planning to be in attendance of are: </br>
-- [FNC District UNC Asheville Event](https://www.thebluealliance.com/event/2024ncash) </br>
-- [FNC District Mecklenburg County Event](https://www.thebluealliance.com/event/2024ncmec) </br>
+- [2024 FNC District UNC Asheville Event](https://www.thebluealliance.com/event/2024ncash) </br>
+- [2024 FNC District Mecklenburg County Event](https://www.thebluealliance.com/event/2024ncmec) </br>
 
 ## Team Lynks
 [Team Website](https://lynkrobotics.org) </br>
