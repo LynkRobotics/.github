@@ -18,7 +18,7 @@ Currently we are planning to be in attendance of are: </br>
 - FNC District Mecklenburg County Event </br>
 
 ## Team Lynks
-[Team Website](lynkrobotics.org) </br>
+[Team Website](https://lynkrobotics.org) </br>
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="15" height="15">
 [Facebook](https://www.facebook.com/lynkfrc) </br>
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="15" height="15">
