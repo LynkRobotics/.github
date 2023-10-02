@@ -20,7 +20,7 @@ Currently we are planning to be in attendance of are: </br>
 
 ## Team Lynks
 [Team Website](https://lynkrobotics.org) </br>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="15" height="15">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="15" height="15"> 
 [Facebook](https://www.facebook.com/lynkfrc) </br>
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="15" height="15">
 [Instagram](https://www.instagram.com/lynkfrc/)</br>
@@ -33,4 +33,4 @@ Currently we are planning to be in attendance of are: </br>
 
 ## Common Repositories 
 [WPILib GitHub](https://github.com/wpilibsuite/allwpilib) </br>
-[FRC Docs](https://docs.wpilib.org/en/stable/index.html)</br>
+[FRC Docs](https://docs.wpilib.org/en/stable/index.html) </br>
