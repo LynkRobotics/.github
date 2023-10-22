@@ -7,12 +7,12 @@ GitHub organization page! </br>
 Lynk is a newly formed high school FIRST Robotic Competition (FRC) team, operating under the umbrella of the Inspire Carolina, Inc non-profit organization. We believe that FRC is a powerful program that can challenge and grow the high school students in our region, and have a positive impact on our community. We're a community based team based out of Rutherford County North Carolina, serving the whole region and we're welcoming to all students who are in 9-12 grade (14-18 years old).
 
 ## Tech Stack 💻
-![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&color=bf5700) </br>
-![Bootstrap](https://img.shields.io/badge/-Gradle-05122A?style=for-the-badge&logo=Gradle&color=bf5700) </br>
-![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=Git&color=bf5700) </br>
-![Bootstrap](https://img.shields.io/badge/-Github-05122A?style=for-the-badge&logo=Github&color=bf5700) </br>
-![Bootstrap](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=Markdown&color=bf5700) </br>
-![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=Visual-Studio-Code&color=bf5700) </br>
+![Static Badge](https://img.shields.io/badge/Java-Java?style=for-the-badge&logo=https://www.chiefdelphi.com/uploads/default/original/3X/d/d/dddf48625f73827c446b20b9830c4d7fe81b2487.png&logoColor=000000&labelColor=bf5700&color=000000) </br>
+![Static Badge](https://img.shields.io/badge/Gradle-Gradle?style=for-the-badge&logo=gradle&logoColor=000000&labelColor=bf5700&color=000000) </br>
+![Static Badge](https://img.shields.io/badge/Git-Git?style=for-the-badge&logo=git&logoColor=000000&labelColor=bf5700&color=000000) </br>
+![Static Badge](https://img.shields.io/badge/github-github?style=for-the-badge&logo=github&logoColor=000000&labelColor=bf5700&color=000000) </br>
+![Static Badge](https://img.shields.io/badge/markdown-markdown?style=for-the-badge&logo=markdown&logoColor=000000&labelColor=bf5700&color=000000) </br>
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-Visual%20Studio%20Code?style=for-the-badge&logo=visualstudiocode&logoColor=000000&labelColor=bf5700&color=000000) </br>
 
 
 ## 2024 Events
@@ -21,18 +21,12 @@ Currently we are planning to be in attendance of are: </br>
 - [2024 FNC District Mecklenburg County Event](https://www.thebluealliance.com/event/2024ncmec) </br>
 
 ## Team Lynks
-
-<img src="https://www.chiefdelphi.com/uploads/default/original/3X/d/d/dddf48625f73827c446b20b9830c4d7fe81b2487.png" width="20" height="20"> [Team Website](https://lynkrobotics.org) </br>
-
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="20" height="20"> [Facebook](https://www.facebook.com/lynkfrc) </br>
-
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="20" height="20"> [Instagram](https://www.instagram.com/lynkfrc/)</br>
-
-<img src="https://static-00.iconduck.com/assets.00/github-icon-1024x1024-59k0a53p.png" width="20" height="20"> [Github](https://github.com/LynkRobotics) </br>
-
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="20" height="20"> [YouTube](https://www.youtube.com/@LynkFRC/) </br>
-
-<img src="https://www.theopenalliance.com/static/darkbg-855d301f1121630f0c903e0984ca4ca8.png" width="20" height="20"> [Open Alliance 2024](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524?u=jimmyy) </br>
+[![Static Badge](https://img.shields.io/badge/Team_Website-Team_Website?style=for-the-badge&logo=https://www.chiefdelphi.com/uploads/default/original/3X/d/d/dddf48625f73827c446b20b9830c4d7fe81b2487.png&logoColor=000000&labelColor=bf5700&color=000000)](https://lynkrobotics.org) </br>
+[![Static Badge](https://img.shields.io/badge/Facebook-facebook?style=for-the-badge&logo=facebook&logoColor=000000&labelColor=bf5700&color=000000)](https://www.facebook.com/lynkfrc) </br>
+[![Static Badge](https://img.shields.io/badge/Instagram-instagram?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=bf5700&color=000000)](https://www.instagram.com/lynkfrc/) </br>
+[![Static Badge](https://img.shields.io/badge/Github-github?style=for-the-badge&logo=github&logoColor=000000&labelColor=bf5700&color=000000)](https://github.com/LynkRobotics) </br>
+[![Static Badge](https://img.shields.io/badge/Youtube-youtube?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=bf5700&color=000000)](https://www.youtube.com/@LynkFRC/)</br>
+[![Static Badge](https://img.shields.io/badge/OA_2024_Thread-OA_2024_Thread?style=for-the-badge&logo=https://www.chiefdelphi.com/uploads/default/original/3X/d/d/dddf48625f73827c446b20b9830c4d7fe81b2487.png&logoColor=000000&labelColor=bf5700&color=000000)]([https://lynkrobotics.org](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524?u=jimmyy)) </br>
 
 
 
