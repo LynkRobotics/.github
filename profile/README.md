@@ -26,7 +26,7 @@ Currently we are planning to be in attendance of are: </br>
 [![Static Badge](https://img.shields.io/badge/Instagram-instagram?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=bf5700&color=000000)](https://www.instagram.com/lynkfrc/) </br>
 [![Static Badge](https://img.shields.io/badge/Github-github?style=for-the-badge&logo=github&logoColor=000000&labelColor=bf5700&color=000000)](https://github.com/LynkRobotics) </br>
 [![Static Badge](https://img.shields.io/badge/Youtube-youtube?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=bf5700&color=000000)](https://www.youtube.com/@LynkFRC/)</br>
-[![Static Badge](https://img.shields.io/badge/OA_2024_Thread-OA_2024_Thread?style=for-the-badge&logo=https://www.chiefdelphi.com/uploads/default/original/3X/d/d/dddf48625f73827c446b20b9830c4d7fe81b2487.png&logoColor=000000&labelColor=bf5700&color=000000)]([https://lynkrobotics.org](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524?u=jimmyy)) </br>
+[![Static Badge](https://img.shields.io/badge/2024_OA_Thread-2024_OA_Thread?style=for-the-badge&logo=https://www.chiefdelphi.com/uploads/default/original/3X/d/d/dddf48625f73827c446b20b9830c4d7fe81b2487.png&logoColor=000000&labelColor=bf5700&color=000000)](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524?u=jimmyy) </br>
 
 
 
