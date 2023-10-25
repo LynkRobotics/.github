@@ -7,7 +7,7 @@ GitHub organization page! </br>
 Lynk is a newly formed high school FIRST Robotic Competition (FRC) team, operating under the umbrella of the Inspire Carolina, Inc non-profit organization. We believe that FRC is a powerful program that can challenge and grow the high school students in our region, and have a positive impact on our community. We're a community based team based out of Rutherford County North Carolina, serving the whole region and we're welcoming to all students who are in 9-12 grade (14-18 years old).
 
 ## Tech Stack 💻
-![Static Badge](https://img.shields.io/badge/Java-Java?style=for-the-badge&logo=https://www.chiefdelphi.com/uploads/default/original/3X/d/d/dddf48625f73827c446b20b9830c4d7fe81b2487.png&logoColor=000000&labelColor=bf5700&color=000000) </br>
+![Static Badge](https://img.shields.io/badge/Java-Java?style=for-the-badge&logo=openjdk&logoColor=000000&labelColor=bf5700&color=000000) </br>
 ![Static Badge](https://img.shields.io/badge/Gradle-Gradle?style=for-the-badge&logo=gradle&logoColor=000000&labelColor=bf5700&color=000000) </br>
 ![Static Badge](https://img.shields.io/badge/Git-Git?style=for-the-badge&logo=git&logoColor=000000&labelColor=bf5700&color=000000) </br>
 ![Static Badge](https://img.shields.io/badge/github-github?style=for-the-badge&logo=github&logoColor=000000&labelColor=bf5700&color=000000) </br>
