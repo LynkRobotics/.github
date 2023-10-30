@@ -31,7 +31,7 @@ Currently we are planning to be in attendance of are: </br>
 
 
 ## Common Repositories 
-[![Static Badge](https://img.shields.io/badge/Lynk%20Library%20of%20Knowledge-LLK-NAN?style=for-the-badge&labelColor=bf5700&color=000000&link=docs.lynkrobotics.org)](https://docs.lynkrobotics.org/) </br>
+[![Static Badge](https://img.shields.io/badge/Lynk_Library_Of_Knowledge-LLK?style=for-the-badge&label=LLK&labelColor=Bf5700&color=000000)](https://docs.lynkrobotics.org/) </br>
 [WPILib GitHub](https://github.com/wpilibsuite/allwpilib) </br>
 [FRC Docs](https://docs.wpilib.org/en/stable/index.html) </br>
 
